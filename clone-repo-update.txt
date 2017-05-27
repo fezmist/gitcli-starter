@@ -1,0 +1,18 @@
+git clone https://github.com/fezmist/gitcli-starter.git
+
+add new files or folders
+
+--add folders and files
+git add *
+
+--add files
+git add .
+
+--get status
+git status
+
+--commit 
+git commit -m "commit message"
+
+--push to github
+git push -u origin master
