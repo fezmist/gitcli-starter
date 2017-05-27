@@ -14,5 +14,8 @@ git status
 --commit 
 git commit -m "commit message"
 
+--github
+git remote add origin https://github.com/fezmist/gitcli-starter
+
 --push to github
 git push -u origin master
